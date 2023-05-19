@@ -1,4 +1,4 @@
-package com.example.training.oop.overloadingAndOverriding;
+package com.example.training.oop.polymorphism;
 
 // Method Overriding
 class Animal {

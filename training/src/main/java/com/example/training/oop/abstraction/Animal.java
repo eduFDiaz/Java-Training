@@ -1,4 +1,4 @@
-package com.example.training.oop.abstracts;
+package com.example.training.oop.abstraction;
 
 public abstract class Animal {
     public abstract void makeSound();

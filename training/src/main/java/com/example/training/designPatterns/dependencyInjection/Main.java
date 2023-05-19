@@ -1,5 +1,8 @@
 package com.example.training.designPatterns.dependencyInjection;
 
+// Dependency Injection is a design pattern that allows us to remove the hard-coded
+// dependencies and make our application loosely coupled, extendable and maintainable.
+
 public class Main {
     public static void main(String[] args) {
         Database mySQLDatabase = new MySQLDatabase();
